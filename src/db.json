@@ -1,0 +1,23 @@
+[
+  {
+    "empid": "101",
+    "name": "John",
+    "age": "30",
+    "address": "no.9, Fellmisg street, US",
+    "department": "IT"
+  },
+  {
+    "empid": "102",
+    "name": "Mary",
+    "age": "23",
+    "address": "no.493,California, US",
+    "department": "Accounts"
+  },
+  {
+    "empid": "103",
+    "name": "Nelson",
+    "age": "32",
+    "address": "no.949,Atlanta, US",
+    "department": "IT"
+  }
+]
